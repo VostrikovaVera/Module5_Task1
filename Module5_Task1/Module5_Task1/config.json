@@ -1,0 +1,5 @@
+﻿{
+  "Api": {
+    "BaseUrl": "https://reqres.in/api"
+  }
+}
